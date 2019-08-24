@@ -1,0 +1,22 @@
+{
+  "name": "express-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appcmdline.js",
+  "scripts": {
+    "start": "node appcmdline.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricklee2/node-express-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patricklee2/node-express-helloworld/issues"
+  },
+  "homepage": "https://github.com/patricklee2/node-express-helloworld#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
